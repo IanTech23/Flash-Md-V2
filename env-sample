@@ -1,17 +1,17 @@
 # Bot Configuration
-PREFIX=!,.
-YOUR_NUMBER=254742063632
-YOUR_NAME=France King 
+PREFIX=,
+YOUR_NUMBER=254723278526
+YOUR_NAME= Ian Tech
 YOUR_LID=your-user-id-or-lid
-MODE=private
+MODE=public 
 WARNINGS=3
 
 # Feature Toggles
-ANTICALL=on
+ANTICALL=off
 ANTIDELETE=on
 AUTO_READ_STATUS=on
-AUTO_LIKE=off
-AUTO_READ_DM=on
+AUTO_LIKE=on
+AUTO_READ_DM=off
 
 # Presence Settings (Options: typing, online, recording, paused, offline)
 PRESENCE_DM=typing
@@ -25,4 +25,4 @@ HEROKU_APP_NAME=your-heroku-app-name
 SESSION=your-base64-session-string
 
 # Alive URL (Optional status page or image)
-ALIVE_URL=https://your-site.com/status.jpg
+ALIVE_URL=https:https://files.catbox.moe/t7b1ik.jpg
